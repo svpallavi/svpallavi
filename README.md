@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm passionate about **Cybersecurity**, **AI/ML**,
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🎓 AI/ML Trainer & Cybersecurity Enthusiast  
-- 💻 Previous SOC Analyst Intern at Texial  
+- 💻 Previous SOC Analyst at Texial  
 - 🧠 Exploring AI tutor systems, LLMs & cybersecurity automation  
-- 👩‍🏫 Co-founder of NuanceEdu – an AI-driven learning platform  
+- 👩‍🏫 Co-founder of NavigTech – a Cybersecurity & AI-driven learning platform  
 - 🌟 Always curious to collaborate and grow
 
 ---
@@ -24,18 +24,18 @@ Welcome to my GitHub profile! I'm passionate about **Cybersecurity**, **AI/ML**,
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 ![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpallavi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svpallavi&layout=compact&theme=radical)
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 - 💼 LinkedIn: [linkedin.com/in/svpallavi](https://linkedin.com/in/svpallavi)  
-- 📧 Email: palvisv99@gmail.com  
-- 🌐 Portfolio (Coming soon): [NuanceEdu.com](https://nuanceedu.com)
+- 📧 Email: pallavisv.sv@gmail.com  
+- 🌐 Portfolio : (http://pallavisvprofile.wuaze.com)
 
 ---
 
@@ -46,5 +46,5 @@ If you’re looking for someone to work with on:
 - Cybersecurity Workshops or Internships
 - GitHub Portfolio Setup & Resume Building
 
-**Let’s connect and grow together! 🚀**
+**Let’s connect and grow together!**
 
